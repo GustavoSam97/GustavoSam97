@@ -4,3 +4,12 @@
 - 💞️ I’m looking to collaborate on future of Kids e Animals.
 - 📫 How to reach me: https://www.linkedin.com/in/gustavo-sampaio-98ab0211a
 
+
+
+ <div>
+<div align="center">
+  <a href="https://github.com/GustavoSam97">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSam97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+    
+    
